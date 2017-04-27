@@ -50,3 +50,16 @@ $ git log --since="4-26-2017" --oneline
 
 
 $ git log --until="4-26-2017"
+
+
+$ git log --grep="Change 1"
+
+
+$ git diff
+
+
+$ git diff --staged
+
+
+
+
