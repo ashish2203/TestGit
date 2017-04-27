@@ -1,0 +1,24 @@
+$ git config --global user.name "Ashish Mehta"
+
+
+$ git config --global user.email "ashish_mehta@persistent.co.in"
+
+
+$ git config user.name
+
+
+$ git config --list
+
+
+$ git init
+
+
+$ git add File1.txt
+
+
+$ git status
+
+
+$ git add .
+
+$ git add *.java
