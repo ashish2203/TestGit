@@ -21,4 +21,32 @@ $ git status
 
 $ git add .
 
+
+$ git commit -m "Change 1 in File 1"
+
+
 $ git add *.java
+
+
+$ git commit -am "Done"
+
+
+$ git log
+
+
+$ git log --oneline
+
+
+$ git log --oneline -2     //Recent 2 Changes
+
+
+$ git log  --author="Ashish"
+
+
+$ git log --since="4-26-2017"
+
+
+$ git log --since="4-26-2017" --oneline
+
+
+$ git log --until="4-26-2017"
