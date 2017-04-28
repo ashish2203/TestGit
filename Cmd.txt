@@ -61,5 +61,12 @@ $ git diff
 $ git diff --staged
 
 
+$ git branch bug123
+
+
+$ git branch
+
+
+
 
 
