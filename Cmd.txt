@@ -61,5 +61,10 @@ $ git diff
 $ git diff --staged
 
 
+$ git checkout master
+
+
+$ git checkout 5d162fe
+
 
 
